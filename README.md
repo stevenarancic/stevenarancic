@@ -61,5 +61,5 @@ Welcome to my GitHub.
 
 I'm definitely not a dog person.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
