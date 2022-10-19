@@ -30,6 +30,10 @@ Welcome to my GitHub.
 
 - Projects for freelance clients.
 - Deploying [my ERP](https://www.upbeatcode.com) to production.
+- Working to: 
+  <a href="https://www.linkedin.com/company/multistore-automa%C3%A7%C3%A3o-comercial/about/">
+    Multistore Automação Comercial
+  </a> from 🏠
 
 ### 🌱 I’m learning
 
