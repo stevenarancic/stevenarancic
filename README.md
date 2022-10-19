@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a FullStack Laravel Developer.
 Welcome to my GitHub.
@@ -60,4 +60,6 @@ Welcome to my GitHub.
 ### ⚡ Fun fact
 
 I'm definitely not a dog person.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<stevenarancic>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
