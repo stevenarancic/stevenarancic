@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stevenarancic/stevenarancic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,8 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm a FullStack Laravel Developer.
+Welcome to my GitHub.
 
 **I love working with**
 
@@ -32,7 +31,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Deploying [my ERP](https://www.upbeatcode.com) to production.
 
 ### 🌱 I’m learning
 
@@ -62,5 +61,5 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm definitely not a dog person.
 
