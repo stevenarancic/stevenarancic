@@ -62,7 +62,7 @@ Welcome to my GitHub.
 </div>
 
 ### 🎧 I'm listening to
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/92tfgvne9dhn94s77m59qdxc0)
 
 ### ⚡ Fun fact
 
