@@ -61,6 +61,9 @@ Welcome to my GitHub.
   </a>
 </div>
 
+### 🎧 I'm listening to
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+
 ### ⚡ Fun fact
 
 I'm definitely not a dog person.
