@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQGojLAHFVBkYA/profile-displaybackgroundimage-shrink_350_1400/0/1666370926985?e=1671667200&v=beta&t=GWmVA2ruYtoOAPEia1OcvS1xXuy4LTai0fbVUIJwfWE" alt="Banner" />
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQH4yH921G_yNQ/profile-displaybackgroundimage-shrink_350_1400/0/1666371341495?e=1671667200&v=beta&t=_X0JMrewI4bNncL_dV_SUq8oYnbs2wCpNXjEPftmN68" alt="Banner" />
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
