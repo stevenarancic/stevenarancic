@@ -43,9 +43,11 @@ Welcome to my GitHub.
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
+<!--
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Laravel ap
+-->
 
 ### 📫 How to reach me
 
