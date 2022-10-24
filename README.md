@@ -70,7 +70,7 @@ Welcome to my GitHub.
 
 ### ⚡ Fun fact
 
-I'm definitely not a dog person.
+I'm from <img src="https://images.emojiterra.com/twitter/v14.0/128px/1f1e7-1f1f7.png" />.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
