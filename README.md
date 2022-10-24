@@ -70,7 +70,9 @@ Welcome to my GitHub.
 
 ### ⚡ Fun fact
 
-I'm from <img src="https://images.emojiterra.com/twitter/v14.0/128px/1f1e7-1f1f7.png" />.
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <span>I'm from </span><img src="https://images.emojiterra.com/twitter/v14.0/128px/1f1e7-1f1f7.png" style="height: 1rem;" alt="Brazil" />.
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
