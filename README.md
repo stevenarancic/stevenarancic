@@ -69,7 +69,7 @@ Welcome to my GitHub.
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/92tfgvne9dhn94s77m59qdxc0)
 
 ### ⚡ Fun fact
-I'm from ![Brazil](https://img.icons8.com/fluency/48/000000/brazil-circular.png "Logo Title Text 1").
+I'm from ![Brazil](img src="https://img.icons8.com/fluency/24/000000/brazil-circular.png "Logo Title Text 1").
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
