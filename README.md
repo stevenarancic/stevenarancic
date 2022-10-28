@@ -39,11 +39,9 @@ Welcome to my GitHub.
 
 ### 🌱 I’m learning
 
-<div>
-  - S.O.L.I.D
-  - TDD (practice using Laravel in ERP package)
-  - Coupling & Cohesion
-</div>
+- S.O.L.I.D
+- TDD (practice using Laravel in ERP package)
+- Coupling & Cohesion
 
 <!--
 ### 🤔 I’m looking for help with
