@@ -61,7 +61,7 @@ Welcome to my GitHub.
 ### Github Stats 🔥🔥🔥
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenarancic&theme=github_dark" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=stevenarancic&show_icons=true&locale=en&theme=github_dark" alt=""/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&layout=compact)](https://github.com/stevenarancic/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenarancic&layout=compact&theme=github_dark" alt=""/>
 
 ### 🎧 I'm listening to
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/92tfgvne9dhn94s77m59qdxc0)
