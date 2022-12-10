@@ -25,19 +25,18 @@ Welcome to my GitHub.
 <div display="flex">
   <img src="https://img.shields.io/badge/Laravel-F3F3F3?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="CSS"/>
 </div>
 
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Deploying [my ERP](https://www.upbeatcode.com) to production.
+- MA Super Prêmios 🍀
 
 ### 🌱 I’m learning
 
 - S.O.L.I.D
-- TDD (practice using Laravel in ERP package)
-- Coupling & Cohesion
+- TDD (PHPUnit w/ Laravel in PHPStorm and E2E tests using Cypress)
 
 <!--
 ### 🤔 I’m looking for help with
