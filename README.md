@@ -24,7 +24,7 @@ Welcome to my GitHub.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Laravel-F3F3F3?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
@@ -32,10 +32,6 @@ Welcome to my GitHub.
 
 - Projects for freelance clients.
 - Deploying [my ERP](https://www.upbeatcode.com) to production.
-- Working to: 
-  <a href="https://www.linkedin.com/company/multistore-automa%C3%A7%C3%A3o-comercial/about/">
-    Multistore Automação Comercial
-  </a> from 🏠
 
 ### 🌱 I’m learning
 
