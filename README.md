@@ -59,8 +59,8 @@ Welcome to my GitHub.
 </div>
 
 ### Github Stats 🔥🔥🔥
-[](https://github-readme-streak-stats.herokuapp.com/?user=stevenarancic&)
-[](https://github-readme-stats.vercel.app/api?username=stevenarancic&show_icons=true&locale=en)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenarancic&" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=stevenarancic&show_icons=true&locale=en" alt=""/>
 
 ### 🎧 I'm listening to
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/92tfgvne9dhn94s77m59qdxc0)
