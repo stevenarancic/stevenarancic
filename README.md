@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a FullStack Laravel Developer.
-Welcome to my GitHub.
+I'm a FullStack web dev.
+Welcome to my GitHub, make yourself at home.
 
 **I love working with**
 
@@ -30,13 +30,14 @@ Welcome to my GitHub.
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- MA Super Prêmios 🍀
+- <a href="https://www.pagbrasil.com/pt-br/">PagBrasil</a>
+- <a href="http://superpremios.kinghost.net/">MA Super Prêmios 🍀</a>
 
 ### 🌱 I’m learning
 
-- S.O.L.I.D
-- TDD (PHPUnit w/ Laravel in PHPStorm and E2E tests using Cypress)
+- TypeScript
+- SalesForce & Shopify integrations
+- SolidJS as a lightweight app for Salesforce cartridge
 
 <!--
 ### 🤔 I’m looking for help with
