@@ -36,6 +36,7 @@ Welcome to my GitHub, make yourself at home.
 ### 🌱 I’m learning
 
 - TypeScript
+- ES6 (Map, objects, classes and more)
 - SalesForce & Shopify integrations
 - SolidJS as a lightweight app for Salesforce cartridge
 
@@ -54,9 +55,6 @@ Welcome to my GitHub, make yourself at home.
   <a href="https://www.instagram.com/steve.narancic/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </div>
 
 ### Github Stats 🔥🔥🔥
@@ -67,5 +65,5 @@ Welcome to my GitHub, make yourself at home.
 ### 🎧 I'm listening to
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/92tfgvne9dhn94s77m59qdxc0)
 
-### ⚡ Fun fact
-I'm from Brazil.
+### ⚡ Something about me
+I'm from Brazil and I love cats.
